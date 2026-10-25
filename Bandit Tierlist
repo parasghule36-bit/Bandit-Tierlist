@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blox Fruits Bandit PvP Tierlist</title>
+    <style>
+        :root { --bg-dark: #0f111a; --card-bg: #161925; --accent-blue: #00bcd4; --text-main: #e3e6ed; --text-muted: #8b949e; --border-color: #2f364d; }
+        body { font-family: sans-serif; background-color: var(--bg-dark); color: var(--text-main); margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 30px; border-bottom: 2px solid var(--border-color); padding-bottom: 20px; }
+        h1 span { color: var(--accent-blue); }
+        .tier-row { display: flex; background-color: var(--card-bg); border: 1px solid var(--border-color); margin-bottom: 12px; border-radius: 6px; overflow: hidden; }
+        .tier-label { width: 90px; min-width: 90px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; color: #000; }
+        .color-ht1 { background-color: #ff4a4a; } .color-lt1 { background-color: #ff7c7c; }
+        .color-ht2 { background-color: #ffaa44; } .color-lt2 { background-color: #ffcb77; }
+        .color-ht3 { background-color: #ffff55; } .color-lt3 { background-color: #ffffaa; }
+        .color-ht4 { background-color: #55ff55; } .color-lt4 { background-color: #aaffaa; }
+        .color-ht5 { background-color: #5555ff; } .color-lt5 { background-color: #77aaff; }
+        .tier-content { padding: 15px; flex-grow: 1; }
+        .tier-title { font-weight: bold; font-size: 1.1rem; color: #fff; }
+        .players-list { color: #ffd700; font-weight: bold; margin-top: 5px; font-size: 1.05rem; background: rgba(0,0,0,0.2); padding: 5px 10px; border-radius: 4px; display: inline-block; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Bandit PvP <span>MCTiers</span> Leaderboard</h1>
+        <p>Manually updated based on YouTube Community Polls</p>
+    </header>
+
+    <!-- HT1 -->
+    <div class="tier-row">
+        <div class="tier-label color-ht1">HT1</div>
+        <div class="tier-content">
+            <div class="tier-title">The Hybrid Genius</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- LT1 -->
+    <div class="tier-row">
+        <div class="tier-label color-lt1">LT1</div>
+        <div class="tier-content">
+            <div class="tier-title">Elite Sword Main</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- HT2 -->
+    <div class="tier-row">
+        <div class="tier-label color-ht2">HT2</div>
+        <div class="tier-content">
+            <div class="tier-title">Meta Pick Sweat</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- LT2 -->
+    <div class="tier-row">
+        <div class="tier-label color-lt2">LT2</div>
+        <div class="tier-content">
+            <div class="tier-title">Rushdown Elite</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- HT3 -->
+    <div class="tier-row">
+        <div class="tier-label color-ht3">HT3</div>
+        <div class="tier-content">
+            <div class="tier-title">Combo Specialist</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- LT3 -->
+    <div class="tier-row">
+        <div class="tier-label color-lt3">LT3</div>
+        <div class="tier-content">
+            <div class="tier-title">Competent Bounty Hunter</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- HT4 -->
+    <div class="tier-row">
+        <div class="tier-label color-ht4">HT4</div>
+        <div class="tier-content">
+            <div class="tier-title">V4 Dependent</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- LT4 -->
+    <div class="tier-row">
+        <div class="tier-label color-lt4">LT4</div>
+        <div class="tier-content">
+            <div class="tier-title">Left-Click Spammer</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- HT5 -->
+    <div class="tier-row">
+        <div class="tier-label color-ht5">HT5</div>
+        <div class="tier-content">
+            <div class="tier-title">Fresh Grind Graduate</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+
+    <!-- LT5 -->
+    <div class="tier-row">
+        <div class="tier-label color-lt5">LT5</div>
+        <div class="tier-content">
+            <div class="tier-title">The Fragile Build</div>
+            <div class="players-list">Players: None yet</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
